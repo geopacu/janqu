@@ -1,0 +1,5 @@
+ {"scripts":{
+     "dev": "webpack && jekyll serve",
+    "build": "webpack && jekyll build"
+ }}
+
